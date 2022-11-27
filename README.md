@@ -1,7 +1,12 @@
 # RANI TOOL
 
 git clone https://github.com/ranisharma09/R2K9
+
+
 cd R2K9
+
+
+
 python RANI.py
 
 
